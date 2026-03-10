@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Laboratory of Quantitative Ecology"
+  
+  description: website of LoQE, Faculty of Science, Charles University."
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  repo-url: "https://github.com/LOQE-CUNI/LOQE-CUNI.github.io"
+  favicon: lab_logo_nobg.jpg
+  image: lab_logo_nobg.jpg
+
+  
+  navbar:
+    left:
+      - text: Activities
+        href: activities.qmd
+
+      - text: Team
+        href: team.qmd
+
+      - text: Outputs
+        href: outputs.qmd
+
+    
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
