@@ -11,21 +11,26 @@ editor:
 
 ## Papers
 
+### 2026
+
 - upcoming
 
+## Presentations
+
+### 2026
+
+- **Mottl O.**, Flantua S.G.A.[Estimating Vegetation Change from Fossil Pollen to Planetary Boundaries :A Global, Long-Term Synthesis Using Big Data](https://ondrejmottl.github.io/TIBS-Presentation-20260107/)
 
 ## Posters
 
 ### 2026
 
-- [The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark](https://conferences.au.dk/tibs-aarhus-2026/program)
+- Flantua S.G.A.,**Mottl O.**,Felde V.A., Bhatta K.P., 
+Birks H.H., Grytnes J., Seddon A.W., & Birks H.J.B.[_The workflow to process global palaeoecological data of fossil pollen for large-scale synthesis_](Mottl_poster_embed_fonts_rasterise.pdf) at [The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark](https://conferences.au.dk/tibs-aarhus-2026/)
 
-   * Flantua S.G.A.,**Mottl O.**,Felde V.A., Bhatta K.P., 
-Birks H.H., Grytnes J., Seddon A.W., & Birks H.J.B.[The workflow to process global palaeoecological data of fossil pollen for large-scale synthesis](Mottl_poster_embed_fonts_rasterise.pdf)
-
-   *  **Námešná N.** & **Mottl O.** [Functional Vegetation Paleoecology:Mitigate the impact of climate change with data-driven insight from past vegetation](poster_FVP_Aarhus.pdf)
+-  **Námešná N.** & **Mottl O.** [_Functional Vegetation Paleoecology:Mitigate the impact of climate change with data-driven insight from past vegetation_](poster_FVP_Aarhus.pdf) ath [The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark](https://conferences.au.dk/tibs-aarhus-2026/)
    
-   * **Novio B.V.** & **Motll O.** A Comparative Analysis of Methodological Frameworks for Reconstructing Continental Diversity Trends of Vegetation: Case of the Northern Hemisphere during the Holocene [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18734603.svg)](https://doi.org/10.5281/zenodo.18734603)
+- **Novio B.V.** & **Mottl O.** _A Comparative Analysis of Methodological Frameworks for Reconstructing Continental Diversity Trends of Vegetation: Case of the Northern Hemisphere during the Holocene_ at [The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark](https://conferences.au.dk/tibs-aarhus-2026/)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18734603.svg)](https://doi.org/10.5281/zenodo.18734603)
    
    
 
