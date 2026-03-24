@@ -15,8 +15,8 @@ website:
   issue-url: "https://github.com/LOQE-CUNI/LOQE-CUNI.github.io/issues"
   repo-actions: source
   
-  favicon: lab_logo_nobg.jpg
-  image: lab_logo_nobg.jpg
+  favicon: Materials/Logos/lab_logo_nobg.png
+  image: Materials/Logos/lab_logo_nobg.png
 
   page-navigation: true
   back-to-top-navigation: true
