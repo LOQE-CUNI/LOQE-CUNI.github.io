@@ -10,10 +10,16 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
+  site-url: "https://loqe-cuni.github.io/"
   repo-url: "https://github.com/LOQE-CUNI/LOQE-CUNI.github.io"
-  favicon: lab_logo_nobg.jpg
-  image: lab_logo_nobg.jpg
+  issue-url: "https://github.com/LOQE-CUNI/LOQE-CUNI.github.io/issues"
+  repo-actions: source
+  
+  favicon: Materials/Logos/lab_logo_nobg.png
+  image: Materials/Logos/lab_logo_nobg.png
 
+  page-navigation: true
+  back-to-top-navigation: true
   
   navbar:
     left:
@@ -30,10 +36,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      - custom_style.scss 
+    toc: false
 
 
 

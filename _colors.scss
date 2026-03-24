@@ -1,0 +1,62 @@
+// MEMELAND Color Scheme (from visual identity)
+// Base colors
+$white: #ffffff !default;
+$black: #000000 !default;
+
+// MEMELAND Brand Colors
+$dark-green: #153B39ff !default;
+$light-green: #597D69ff !default;
+$leaf-green: #9B9B55ff !default;
+$orange: #BD5F28ff !default;
+
+// Color classes for text color
+.text-color-white { color: $white !important; }
+.text-color-black { color: $black !important; }
+.text-color-dark-green { color: $dark-green !important; }
+.text-color-light-green { color: $light-green !important; }
+.text-color-leaf-green { color: $leaf-green !important; }
+.text-color-orange { color: $orange !important; }
+
+
+// Color classes for background
+.text-background-white {
+  background-color: $white;
+  color: $black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-background-black {
+  background-color: $black;
+  color: $white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-background-dark-green {
+  background-color: $dark-green;
+  color: $white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-background-light-green {
+  background-color: $light-green;
+  color: $black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-background-leaf-green {
+  background-color: $leaf-green;
+  color: $black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-background-orange {
+  background-color: $orange;
+  color: $white;
+  padding: 5px;
+  border-radius: 5px;
+}
