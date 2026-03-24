@@ -5,21 +5,18 @@ $smallMargin: 5px;
 $blockMargin: 10px;
 $largeMargin: 20px;
 
-// Import MEMELAND colors
+// Import  colors
 @import "_colors";
 
-// Define missing $black variable for compatibility
-$black: #000000 !default;
-
-// Colors (using MEMELAND color scheme)
-$body-color: $black; // Text colour: black (from visual identity)
+// Colors 
+$body-color: $black; // Text colour: black
 $backgroundColor: $white;
-$heading-color: $black-slug; // Title colour: Black Slug (from visual identity)
+$heading-color: $dark-green; 
 
-// Import MEMELAND fonts
+// Import  fonts
 @import "_fonts";
 
-// Typography (MEMELAND Visual Identity)
+// Typography
 $mainFontSize: 12pt;
 $body-line-height: 1.5;
 
@@ -48,12 +45,12 @@ body {
 }
 
 a {
-  color: $brown !important;
+  color: $orange !important;
   text-decoration: underline !important;
 
   &:hover {
     color: $white !important;
-    background-color: $brown !important;
+    background-color: $orange !important;
   }
 }
 
@@ -66,7 +63,7 @@ h1 {
   font-weight: $headingFontWeight;
   color: $heading-color;
   margin-top: $largeMargin;
-  text-shadow: 3px 4px 5px $grey;
+  text-shadow: 3px 4px 5px $light-green;
 }
 
 h2 {
@@ -122,7 +119,7 @@ h6 {
 /* Code block */
 pre,
 code {
-  background-color: lighten($grey, 20%) !important;
+  background-color: lighten($light-green, 20%) !important;
   color: $black;
   padding: $smallMargin;
   border-radius: 5px;
@@ -134,7 +131,7 @@ pre {
 }
 
 code {
-  background-color: lighten($grey, 20%) !important;
+  background-color: lighten($light-green, 20%) !important;
   padding: 0;
 }
 
@@ -145,12 +142,12 @@ pre code {
 
 pre a,
 code a {
-  color: $brown !important;
+  color: $orange !important;
   text-decoration: underline !important;
 
   &:hover {
     color: $white !important;
-    background-color: $brown !important;
+    background-color: $orange !important;
   }
 }
 
@@ -167,10 +164,10 @@ ul ul {
 
 /* Navbar */
 .navbar {
-  background: $green !important;
+  background: $dark-green !important;
   font-family: $headingFont !important;
   font-size: 20px !important;
-  color: $black !important;
+  color: $white !important;
   padding: 10px 0 !important;
   a {
     color: $white !important;
@@ -178,7 +175,7 @@ ul ul {
     padding: 10px !important;
     &:hover {
       text-decoration: underline !important;
-      background-color: $green !important;
+      background-color: $dark-green !important;
     }
   }
 }
@@ -186,11 +183,11 @@ ul ul {
 .sidebar {
   color: $black !important;
   a {
-    color: $brown !important;
+    color: $orange !important;
     text-decoration: underline !important;
     &:hover {
       color: $white !important;
-      background-color: $brown !important;
+      background-color: $orange !important;
     }
   }
 }
@@ -198,11 +195,11 @@ ul ul {
 .TOC {
   color: $black !important;
   a {
-    color: $brown !important;
+    color: $orange !important;
     text-decoration: underline !important;
     &:hover {
       color: $white !important;
-      background-color: $brown !important;
+      background-color: $orange !important;
     }
   }
 }
@@ -212,7 +209,7 @@ ul ul {
 
 /* Language dropdown menu styling */
 .navbar .dropdown-menu {
-  background-color: $green !important;
+  background-color: $dark-green !important;
 }
 
 .navbar .dropdown-menu .dropdown-item {
@@ -221,6 +218,6 @@ ul ul {
 
 .navbar .dropdown-menu .dropdown-item:hover,
 .navbar .dropdown-menu .dropdown-item:focus {
-  background-color: $green !important;
+  background-color: $dark-green !important;
   color: $white !important;
 }
