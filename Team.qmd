@@ -13,14 +13,14 @@ editor:
 
 -   
 
-    ### [Ondřej Mottl](/about_me/cv.qmd) <img src="img/ondra_crop.jpg" alt="Ondřej Mottl" align="right" width="120"/>
+    ### [Ondřej Mottl](https://ondrejmottl.github.io/about_me/cv.html) <img src="img/ondra_crop.jpg" alt="Ondřej Mottl" align="right" width="120"/>
 
     -   **Head of the Laboratory**
     -   Assistant Professor for Plant Ecology
     -   📬email: ondrej.mottl(at)gmail.com
     -   [![ORCID](https://img.shields.io/badge/orcid-0000--0002--9796--5081-brightgreen.svg)](https://orcid.org/0000-0002-9796-5081)
-    -   [About me](/index.qmd)
-    -   [List of publications](/about_me/list_of_publications.qmd)
+    -   [About me](https://ondrejmottl.github.io/about_me/cv.html)
+    -   [List of publications](https://ondrejmottl.github.io/about_me/list_of_publications.html)
 
 -   
 
