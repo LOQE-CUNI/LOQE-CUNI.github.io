@@ -27,7 +27,7 @@ website:
         href: activities.qmd
 
       - text: Team
-        href: team.qmd
+        href: Team.qmd
 
       - text: Outputs
         href: outputs.qmd
