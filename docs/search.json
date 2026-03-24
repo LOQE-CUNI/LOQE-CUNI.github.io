@@ -1,24 +1,59 @@
 [
   {
-    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html",
-    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html",
+    "objectID": "outputs.html",
+    "href": "outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "upcoming"
+  },
+  {
+    "objectID": "outputs.html#papers",
+    "href": "outputs.html#papers",
+    "title": "Outputs",
+    "section": "",
+    "text": "upcoming"
+  },
+  {
+    "objectID": "outputs.html#presentations",
+    "href": "outputs.html#presentations",
+    "title": "Outputs",
+    "section": "Presentations",
+    "text": "Presentations\n\n2026\n\nMottl O., Flantua S.G.A.Estimating Vegetation Change from Fossil Pollen to Planetary Boundaries :A Global, Long-Term Synthesis Using Big Data"
+  },
+  {
+    "objectID": "outputs.html#posters",
+    "href": "outputs.html#posters",
+    "title": "Outputs",
+    "section": "Posters",
+    "text": "Posters\n\n2026\n\nFlantua S.G.A.,Mottl O.,Felde V.A., Bhatta K.P., Birks H.H., Grytnes J., Seddon A.W., & Birks H.J.B.The workflow to process global palaeoecological data of fossil pollen for large-scale synthesis at The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark\nNámešná N. & Mottl O. Functional Vegetation Paleoecology:Mitigate the impact of climate change with data-driven insight from past vegetation ath The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark\nNovio B.V. & Mottl O. A Comparative Analysis of Methodological Frameworks for Reconstructing Continental Diversity Trends of Vegetation: Case of the Northern Hemisphere during the Holocene at The International Biogeography(TIBS) 12th Biennial Conference, Aarhus,Denmark"
+  },
+  {
+    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html",
+    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html",
     "title": "Looking for a new PhD student!",
     "section": "",
-    "text": "Are you passionate about understanding ecosystem changes using large datasets and advanced modelling techniques? I am offering a fully funded, full-time PhD position as part of the Functional Vegetation Paleoecology project, funded by PRIMUS, spanning paleoecology, quantitative ecology, and functional ecology. The candidate will join my Laboratory of Quantitative Ecology at the Department of Botany, Faculty of Science, Charles University in Prague, Czech Republic.\nFor the latest updates on this position, visit: bit.ly/PhD_FunctionalVegetationPaleoecology"
+    "text": "Are you passionate about unravelling the mysteries of our planet’s biodiversity using large data and statistics? I offer a fully funded, full-time PhD position in a field spanning macroecology, palaeoecology, biodiversity science, and quantitative ecology. The candidate will join my newly established Laboratory of Quantitative Ecology at the Department of Botany at the Faculty of Sciences, Charles University in Prague, Czech Republic.\nThe latest news about the position can be found on the website: https://bit.ly/PhD_HoloceneDiversityTrends\n\n\n\n\n\n\n\nMy lab is fascinated by macroecology, palaeoecology, and biodiversity science. I focus on exploring spatio-temporal patterns of vegetation biodiversity, with a commitment to interdisciplinary research and a focus on human impact."
   },
   {
-    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#desirable-but-not-required",
-    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#desirable-but-not-required",
+    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#about-the-team",
+    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#about-the-team",
     "title": "Looking for a new PhD student!",
-    "section": "Desirable but Not Required:",
-    "text": "Desirable but Not Required:\n\nPrior experience with programming in R; experience with other languages (Python, C#, etc.) is also welcomed.\nSolid background in data analysis and statistical testing.\nExperience with large-scale biodiversity patterns.\nGood knowledge of Function Ecology (functional traits)\nExperience in an international working environment."
+    "section": "",
+    "text": "My lab is fascinated by macroecology, palaeoecology, and biodiversity science. I focus on exploring spatio-temporal patterns of vegetation biodiversity, with a commitment to interdisciplinary research and a focus on human impact."
   },
   {
-    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#the-application-deadline-is-the-15th-of-january-2025",
-    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#the-application-deadline-is-the-15th-of-january-2025",
+    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#desirable-but-not-required",
+    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#desirable-but-not-required",
     "title": "Looking for a new PhD student!",
-    "section": "! The application deadline is the 15th of January 2025 !",
-    "text": "! The application deadline is the 15th of January 2025 !\nSend an email to ‘quantitative.ecology@natur.cuni.cz’ with “PhD application [your surname]” in the email subject, containing:\n\nMotivation letter (1-2 pages) describing your expertise and research interests, stating why you see yourself as a good fit for my group/team, and why you are interested in obtaining a PhD.\nYour CV highlighting the most relevant information (1-2 pages)\nContact details for 2-3 academic referees, e.g., your former supervisor, boss, or collaborator.\n\nNote that additional materials such as your theses, manuscripts, diplomas, or certificates may be requested later on, so make sure to prepare all relevant documents in advance."
+    "section": "Desirable but not required:",
+    "text": "Desirable but not required:\n\nPrior experience with programming in R; experience with other languages (Python, C#, etc) are also welcomed\nSolid background in data analysis and statistical testing\nExperience from an international working environment"
+  },
+  {
+    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#application-deadline-is-13th-of-march-2024",
+    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#application-deadline-is-13th-of-march-2024",
+    "title": "Looking for a new PhD student!",
+    "section": "! Application deadline is 13th of March 2024 !",
+    "text": "! Application deadline is 13th of March 2024 !\nThe application process has 2 stages:\n\nYour application needs to be submitted via STARS portal\n\nThe STARS is a framework to attract the best students from abroad, as well as from the Czech Republic, to ensure excellent education and an adequate income for PhD students. More info can be found on website\n\nSend an email to ‘ondrej.mottl@natur.cuni.cz’ with “PhD application [your surename]” in the email subject, containing:\n\nMotivation letter (1-2 pages) describing your expertise and research interests, stating why you see yourself as a good fit for my group/team, and why are you interested in getting a PhD.\nContact details for 2-3 academic referees, e.g. your former supervisor, boss, or collaborator.\n\n\nNote that additional materials such as your theses, manuscripts, diplomas, or certificates may be requested later on, so make sure to prepare all relevant documents prior."
   },
   {
     "objectID": "index.html",
@@ -49,31 +84,24 @@
     "text": "People\n\nOndřej Mottl \n\nHead of the Laboratory\nAssistant Professor for Plant Ecology\n📬email: ondrej.mottl(at)gmail.com\n\nAbout me\nList of publications\n\nBryan Novio \n\nPhD student\n📬email: noviobryan(at)gmail.com\n\nHolocene Diversity Trends project\njoined Autumn 2024\n\nNatálie Hanusová \n\nPhD student\n📬email: hanusova.nat(at)gmail.com\nFunctional Vegetation Paleoecology project\njoined Autumn 2025\n\n\n\nFormer members\n\nFriederike Wolke \n\nTechnical assistant (programming)\n📬email: friederike.woelke(at)gmail.com\nRRatepol R-Package development\nEmployed summer and autumn 2025\n\nMarkéta Tumová \n\nBc student\n📬email: tumovamarket(at)natur.cuni.cz\nAlpine Biodiversity Across Continents project (linked to the PPF Alpine)\njoined in Autumn 2024\nFinished Bc thesis in Spring 2025"
   },
   {
-    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html",
-    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html",
+    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html",
+    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html",
     "title": "Looking for a new PhD student!",
     "section": "",
-    "text": "Are you passionate about unravelling the mysteries of our planet’s biodiversity using large data and statistics? I offer a fully funded, full-time PhD position in a field spanning macroecology, palaeoecology, biodiversity science, and quantitative ecology. The candidate will join my newly established Laboratory of Quantitative Ecology at the Department of Botany at the Faculty of Sciences, Charles University in Prague, Czech Republic.\nThe latest news about the position can be found on the website: https://bit.ly/PhD_HoloceneDiversityTrends\n\n\n\n\n\n\n\nMy lab is fascinated by macroecology, palaeoecology, and biodiversity science. I focus on exploring spatio-temporal patterns of vegetation biodiversity, with a commitment to interdisciplinary research and a focus on human impact."
+    "text": "Are you passionate about understanding ecosystem changes using large datasets and advanced modelling techniques? I am offering a fully funded, full-time PhD position as part of the Functional Vegetation Paleoecology project, funded by PRIMUS, spanning paleoecology, quantitative ecology, and functional ecology. The candidate will join my Laboratory of Quantitative Ecology at the Department of Botany, Faculty of Science, Charles University in Prague, Czech Republic.\nFor the latest updates on this position, visit: bit.ly/PhD_FunctionalVegetationPaleoecology"
   },
   {
-    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#about-the-team",
-    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#about-the-team",
+    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#desirable-but-not-required",
+    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#desirable-but-not-required",
     "title": "Looking for a new PhD student!",
-    "section": "",
-    "text": "My lab is fascinated by macroecology, palaeoecology, and biodiversity science. I focus on exploring spatio-temporal patterns of vegetation biodiversity, with a commitment to interdisciplinary research and a focus on human impact."
+    "section": "Desirable but Not Required:",
+    "text": "Desirable but Not Required:\n\nPrior experience with programming in R; experience with other languages (Python, C#, etc.) is also welcomed.\nSolid background in data analysis and statistical testing.\nExperience with large-scale biodiversity patterns.\nGood knowledge of Function Ecology (functional traits)\nExperience in an international working environment."
   },
   {
-    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#desirable-but-not-required",
-    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#desirable-but-not-required",
+    "objectID": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#the-application-deadline-is-the-15th-of-january-2025",
+    "href": "lab_news/02-phd_position_FunctionalVegetationPaleoecology.html#the-application-deadline-is-the-15th-of-january-2025",
     "title": "Looking for a new PhD student!",
-    "section": "Desirable but not required:",
-    "text": "Desirable but not required:\n\nPrior experience with programming in R; experience with other languages (Python, C#, etc) are also welcomed\nSolid background in data analysis and statistical testing\nExperience from an international working environment"
-  },
-  {
-    "objectID": "lab_news/01-phd_position_HoloceneDiversityTrends.html#application-deadline-is-13th-of-march-2024",
-    "href": "lab_news/01-phd_position_HoloceneDiversityTrends.html#application-deadline-is-13th-of-march-2024",
-    "title": "Looking for a new PhD student!",
-    "section": "! Application deadline is 13th of March 2024 !",
-    "text": "! Application deadline is 13th of March 2024 !\nThe application process has 2 stages:\n\nYour application needs to be submitted via STARS portal\n\nThe STARS is a framework to attract the best students from abroad, as well as from the Czech Republic, to ensure excellent education and an adequate income for PhD students. More info can be found on website\n\nSend an email to ‘ondrej.mottl@natur.cuni.cz’ with “PhD application [your surename]” in the email subject, containing:\n\nMotivation letter (1-2 pages) describing your expertise and research interests, stating why you see yourself as a good fit for my group/team, and why are you interested in getting a PhD.\nContact details for 2-3 academic referees, e.g. your former supervisor, boss, or collaborator.\n\n\nNote that additional materials such as your theses, manuscripts, diplomas, or certificates may be requested later on, so make sure to prepare all relevant documents prior."
+    "section": "! The application deadline is the 15th of January 2025 !",
+    "text": "! The application deadline is the 15th of January 2025 !\nSend an email to ‘quantitative.ecology@natur.cuni.cz’ with “PhD application [your surname]” in the email subject, containing:\n\nMotivation letter (1-2 pages) describing your expertise and research interests, stating why you see yourself as a good fit for my group/team, and why you are interested in obtaining a PhD.\nYour CV highlighting the most relevant information (1-2 pages)\nContact details for 2-3 academic referees, e.g., your former supervisor, boss, or collaborator.\n\nNote that additional materials such as your theses, manuscripts, diplomas, or certificates may be requested later on, so make sure to prepare all relevant documents in advance."
   }
 ]
