@@ -22,80 +22,102 @@ listing:
 ---
 
 ::: {#heading}
-The Laboratory of Quantitative Ecology is a research group focused on examining vegetation biodiversity trends across spatial and temporal scales. We are particularly interested in understanding the influence of human activities and advancing interdisciplinary research in ecology.
+The Laboratory of Quantitative Ecology is a research group focused on examining vegetation biodiversity trends across spatial and temporal scales.
+We are particularly interested in understanding the influence of human activities and advancing interdisciplinary research in ecology.
 :::
 
-![](lab_logo_nobg.jpg){width=300 fig-align="center"}
+![](lab_logo_nobg.jpg){width="300" fig-align="center"}
 
 ## Group Description
 
-Welcome to the Laboratory of Quantitative Ecology, where we are dedicated to unraveling the complexities of vegetation dynamics. Our research spans spatio-temporal scales, investigating both historical and contemporary factors that shape ecological patterns of ecosystems.
-
+Welcome to the Laboratory of Quantitative Ecology, where we are dedicated to unraveling the complexities of vegetation dynamics.
+Our research spans spatio-temporal scales, investigating both historical and contemporary factors that shape ecological patterns of ecosystems.
 
 ### Research Focus
 
-Delving into various facets of biodiversity, including taxonomic, functional, and phylogenetic dimensions, we utilize advanced quantitative palaeoecological methods, data science, and machine learning. Our investigations cover diverse spatial scales, from local biomes to continents, enriched by the inclusion of long-term data, such as fossil pollen records and other ecological archives.
+Delving into various facets of biodiversity, including taxonomic, functional, and phylogenetic dimensions, we utilize advanced quantitative palaeoecological methods, data science, and machine learning.
+Our investigations cover diverse spatial scales, from local biomes to continents, enriched by the inclusion of long-term data, such as fossil pollen records and other ecological archives.
 
 #### State-of-the-Art Tools and Methods
 
-We use cutting-edge quantitative and statistical methods, alongside state-of-the-art data science and machine learning approaches. Our research not only involves the application of existing methods but also the development of new methodologies to extract deeper insights from complex ecological datasets. This continuous innovation ensures that our research remains at the forefront of ecological science, expanding the limits of our understanding of vegetation patterns.
+We use cutting-edge quantitative and statistical methods, alongside state-of-the-art data science and machine learning approaches.
+Our research not only involves the application of existing methods but also the development of new methodologies to extract deeper insights from complex ecological datasets.
+This continuous innovation ensures that our research remains at the forefront of ecological science, expanding the limits of our understanding of vegetation patterns.
 
 #### Interdisciplinary Approach
 
-Our research integrates concepts and methodologies from various fields, including macroecology, palaeoecology, biodiversity science, and quantitative ecology. This interdisciplinary perspective allows us to gain a comprehensive understanding of vegetation dynamics and their underlying drivers.
+Our research integrates concepts and methodologies from various fields, including macroecology, palaeoecology, biodiversity science, and quantitative ecology.
+This interdisciplinary perspective allows us to gain a comprehensive understanding of vegetation dynamics and their underlying drivers.
 
 #### Ongoing projects
 
-- [BIODYNAMICS](/projects/BIODYNAMICS/index.qmd)
-- [Functional Vegetation Paleoecology](/projects/FunctionalVegetationPaleoecology/index.qmd)
-- [PPF Alpine](/projects/PPF-Alpine/index.qmd)
-- [Holocene Diversity Trends](/projects/HoloceneDiversityTrends/index.qmd)
-- [FOSSILPOL](/projects/FOSSILPOL/index.qmd)
-- [Planetary Boundaries Working Group](/projects/PlanetaryBoundaries/index.qmd)
+-   [BIODYNAMICS](/projects/BIODYNAMICS/index.qmd)
+-   [Functional Vegetation Paleoecology](/projects/FunctionalVegetationPaleoecology/index.qmd)
+-   [PPF Alpine](/projects/PPF-Alpine/index.qmd)
+-   [Holocene Diversity Trends](/projects/HoloceneDiversityTrends/index.qmd)
+-   [FOSSILPOL](/projects/FOSSILPOL/index.qmd)
+-   [Planetary Boundaries Working Group](/projects/PlanetaryBoundaries/index.qmd)
 
 #### Presentations
 
-- [Flash talk about our lab](https://ondrejmottl.github.io/Presentation-FlashTalk-JF-20250926/) presented at the [Junior Faculty](https://natur.cuni.cz/en/research/junior-faculty) Conference September 2025.
+-   [Flash talk about our lab](https://ondrejmottl.github.io/Presentation-FlashTalk-JF-20250926/) presented at the [Junior Faculty](https://natur.cuni.cz/en/research/junior-faculty) Conference September 2025.
 
 ## News
+
 ::: {#lab_news}
 :::
 
 ## People
 
-- ### [Ondřej Mottl](/about_me/cv.qmd) <img src="img/ondra_crop.jpg" alt="Ondřej Mottl" align="right" width="120" /> 
-  * **Head of the Laboratory**
-  * Assistant Professor for Plant Ecology
-  * 📬email: ondrej.mottl(at)gmail.com
-  * [![ORCID](https://img.shields.io/badge/orcid-0000--0002--9796--5081-brightgreen.svg)](https://orcid.org/0000-0002-9796-5081)
-  * [About me](/index.qmd)
-  * [List of publications](/about_me/list_of_publications.qmd)
-  
-- ### Bryan Novio <img src="img/bryan_crop.jpg" alt="Bryan Novio" align="right" width="120" /> 
-  * PhD student
-  * 📬email: noviobryan(at)gmail.com
-  * [![ORCID](https://img.shields.io/badge/orcid-0000--0003--1600--4973-brightgreen.svg)](https://orcid.org/0000-0003-1600-4973)
-  * [*Holocene Diversity Trends*](/projects/HoloceneDiversityTrends/index.qmd) project
-  - joined Autumn 2024
+-   
 
-- ### Natálie Hanusová <img src="img/naty_crop.png" alt="Natálie Hanusová" align="right" width="120" /> 
-- * PhD student
-  * 📬email: hanusova.nat(at)gmail.com
-  * [*Functional Vegetation Paleoecology*](/projects/FunctionalVegetationPaleoecology/index.qmd) project
-  - joined Autumn 2025
+    ### [Ondřej Mottl](/about_me/cv.qmd) <img src="img/ondra_crop.jpg" alt="Ondřej Mottl" align="right" width="120"/>
+
+    -   **Head of the Laboratory**
+    -   Assistant Professor for Plant Ecology
+    -   📬email: ondrej.mottl(at)gmail.com
+    -   [![ORCID](https://img.shields.io/badge/orcid-0000--0002--9796--5081-brightgreen.svg)](https://orcid.org/0000-0002-9796-5081)
+    -   [About me](/index.qmd)
+    -   [List of publications](/about_me/list_of_publications.qmd)
+
+-   
+
+    ### Bryan Novio <img src="img/bryan_crop.jpg" alt="Bryan Novio" align="right" width="120"/>
+
+    -   PhD student
+    -   📬email: noviobryan(at)gmail.com
+    -   [![ORCID](https://img.shields.io/badge/orcid-0000--0003--1600--4973-brightgreen.svg)](https://orcid.org/0000-0003-1600-4973)
+    -   [*Holocene Diversity Trends*](/projects/HoloceneDiversityTrends/index.qmd) project
+    -   joined Autumn 2024
+
+-   
+
+    ### Natálie Námešná <img src="img/naty_crop.png" alt="Natálie Hanusová" align="right" width="120"/>
+
+-   
+
+    -   PhD student
+    -   📬email: hanusova.nat(at)gmail.com
+    -   [*Functional Vegetation Paleoecology*](/projects/FunctionalVegetationPaleoecology/index.qmd) project
+    -   joined Autumn 2025
 
 ### Former members
 
-- ### Friederike Wolke <img src="img/frieda.jpeg" alt="Friederike Wolke" align="right" width="120" /> 
-  * Technical assistant (programming)
-  * 📬email: friederike.woelke(at)gmail.com
-  * [*RRatepol*](/projects/RRatepol/index.qmd) R-Package development
-  - Employed summer and autumn 2025
+-   
 
-- ### Markéta Tumová <img src="img/marketa_crop.JPG" alt="Markéta Tumová" align="right" width="120" />
-   * Bc student
-   * 📬email: tumovamarket(at)natur.cuni.cz
-   * *Alpine Biodiversity Across Continents* project (linked to the [PPF Alpine](/projects/PPF-Alpine/index.qmd))
-   * joined in Autumn 2024
-   * Finished Bc thesis in Spring 2025
-  
+    ### Friederike Wolke <img src="img/frieda.jpeg" alt="Friederike Wolke" align="right" width="120"/>
+
+    -   Technical assistant (programming)
+    -   📬email: friederike.woelke(at)gmail.com
+    -   [*RRatepol*](/projects/RRatepol/index.qmd) R-Package development
+    -   Employed summer and autumn 2025
+
+-   
+
+    ### Markéta Tumová <img src="img/marketa_crop.JPG" alt="Markéta Tumová" align="right" width="120"/>
+
+    -   Bc student
+    -   📬email: tumovamarket(at)natur.cuni.cz
+    -   *Alpine Biodiversity Across Continents* project (linked to the [PPF Alpine](/projects/PPF-Alpine/index.qmd))
+    -   joined in Autumn 2024
+    -   Finished Bc thesis in Spring 2025
