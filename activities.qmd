@@ -13,9 +13,27 @@ editor:
 
 <img src="img/QESIG_Logo_3.pdf" alt="QESIG logo" align="middle" width="120"/>
 
+### What is QESIG?
+
 -   The aim of this group is to connect early-career researchers interested in Quantitative Ecology, Macroecology, and Data Science, to share scientific ideas, and to promote research collaboration.
 
 -   QESIG is also meant to bring together PhD students, who share a similar interest and view on science – who value best practices on reproducibility, transparency, and open science.
     It is envisioned as several meetings per year for PhDs to share experiences and build a good peer-to-peer support group.
 
+### Meetings
+
 -   The first meeting was held by LoQE at Kampus Hybernská CUNI on 11 December 2025.
+
+
+## LoQE Book Club
+
+### What are we discussing?
+- We discuss relevant topics in statistics, data science, coding, and related areas. This semester (spring 2026), we will focus on the book [R for Data Science] (https://r4ds.hadley.nz/). 
+
+### When do we meet? 
+- The book club is taking place every first Tuesday of the month at 9:00 AM in the [Department of Botany, CUNI] (https://natur.cuni.cz/biologie/katedry-a-pracoviste/katedra-botaniky/kontakt)
+
+
+
+
+
