@@ -8,3 +8,22 @@ editor:
   markdown: 
     wrap: sentence
 ---
+
+## QESIG - Quantitative Ecology Special Interest Group
+
+<img src="img/QESIG_Logo_3.jpg" alt="QESIG logo" align="middle" width="120"/>
+
+-   The aim of this group is to connect early-career researchers interested in Quantitative Ecology, Macroecology, and Data Science, to share scientific ideas, and to promote research collaboration.
+
+-   QESIG is also meant to bring together PhD students, who share a similar interest and view on science – who value best practices on reproducibility, transparency, and open science.
+    It is envisioned as several meetings per year for PhDs to share experiences and build a good peer-to-peer support group.
+    
+- The first meeting was held by LoQE at Kampus Hybernská CUNI on 11 December 2025.
+
+
+    
+    
+    
+    
+    
+    
